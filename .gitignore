@@ -44,3 +44,6 @@ ENV/
 
 # IDE settings
 *.code-workspace
+
+# Personal interview notes (not for public)
+__INTERVIEW_*.md
